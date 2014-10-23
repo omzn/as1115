@@ -1,4 +1,6 @@
-as1115
-======
+AMS AS1115
+==========
 
-AS1115 I2C LED driver example on Arduino
+64 LEDs, I2C Interfaced LED Driver with Keyscan
+
+This example drives 8x8 dot matrix LED with AS1115.
